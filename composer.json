@@ -1,6 +1,7 @@
 {
     "version": "1.0.0",
     "name": "acme/project1",
+     "type": "vcs",
     "require": {
         "monolog/monolog": "1.0.*"
     },
