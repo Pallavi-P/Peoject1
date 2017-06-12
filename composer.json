@@ -3,6 +3,10 @@
     	"name": "acme/project1",
     	"version": "1.0.0"
     },
+     "dist": {
+        "type": "composer",
+        "url":  "https://github.com/Pallavi-P/Peoject1.git"
+    },
     
     "require": {
         "monolog/monolog": "1.0.*"
