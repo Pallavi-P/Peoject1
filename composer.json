@@ -3,7 +3,7 @@
     	"name": "acme/project1",
     	"version": "dev-master"
     },
-     "dist": {
+     "source": {
         "type": "composer",
         "url":  "https://github.com/Pallavi-P/Peoject1.git"
     },
