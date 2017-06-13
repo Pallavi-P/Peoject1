@@ -1,11 +1,12 @@
 {
     "packages": {
     	"name": "acme/project1",
-    	"version": "dev-master"
+    	"version": "master"
     },
      "source": {
         "type": "git",
-        "url":  "https://github.com/Pallavi-P/Peoject1.git"
+        "url":  "https://github.com/Pallavi-P/Peoject1.git",
+        "reference": "master"
     },
     
     "require": {
