@@ -1,19 +1,23 @@
 {
-    "packages": {
-    	"name": "acme/project1",
-    	"version": "master"
-    },
-     "source": {
-        "type": "git",
-        "url":  "https://github.com/Pallavi-P/Peoject1.git",
-        "reference": "master"
-    },
+    	"name": "Pallavi-P/Peoject1",
+        "description": "This PHP class uploads files.",
+        "type": "library",
+        "homepage":"http://wordpress.dev.com/acharya.php",
+        "authors": [
+        {
+            "name": "Pallavi",
+            "email": "pallavipatidar13@gmail.com"
+        }
+    ],
     
     "require": {
-        "monolog/monolog": "1.0.*"
+        "monolog/monolog": "1.0.*",
+        "php": ">=4"
     },
 
     "autoload": {
         "psr-4": {"Acme\\": "src/"}
     }
 }
+
+
