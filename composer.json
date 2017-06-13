@@ -3,21 +3,27 @@
         "description": "This PHP class uploads files.",
         "type": "library",
         "homepage":"http://wordpress.dev.com/acharya.php",
+        "keywords": ["upload", "gd"],
+        "license": "GPLv2",
         "authors": [
-        {
-            "name": "Pallavi",
-            "email": "pallavipatidar13@gmail.com"
-        }
-    ],
-    
-    "require": {
-        "monolog/monolog": "1.0.*",
-        "php": ">=4"
-    },
+            {
+                "name": "Pallavi",
+                "email": "pallavipatidar13@gmail.com"
+            }
+        ],
 
-    "autoload": {
-        "psr-4": {"Acme\\": "src/"}
-    }
+        "support":{
+            "pallavipatidar13@gmail.com"
+        },
+    
+        "require": {
+            "monolog/monolog": "1.0.*",
+            "php": ">=4"
+        },
+
+        "autoload": {
+            "psr-4": {"Acme\\": "src/"}
+        }
 }
 
 
