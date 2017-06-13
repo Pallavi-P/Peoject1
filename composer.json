@@ -4,7 +4,7 @@
     	"version": "dev-master"
     },
      "source": {
-        "type": "composer",
+        "type": "git",
         "url":  "https://github.com/Pallavi-P/Peoject1.git"
     },
     
