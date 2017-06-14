@@ -1,7 +1,8 @@
 {
-    	"name": "pallavi-p/peoject1",
+    	"name": "Pallavi-P/Peoject1",
+        "version": "1.0.0",
         "description": "This PHP class uploads files.",
-        "type": "package",
+        "type": "library",
         "homepage":"http://wordpress.dev.com/acharya.php",
         "keywords": ["upload", "gd"],
         "license": "GPLv2",
@@ -15,9 +16,6 @@
         "support":{
             "email":"pallavipatidar13@gmail.com"
         },
-
-
-    
         "require": {
             "monolog/monolog": "1.0.*",
             "php": ">=4"
