@@ -2,7 +2,6 @@
     	"name": "pallavi-p/peoject1",
         "version": "1.0.0",
         "description": "This PHP class uploads files.",
-        "type": "library",
         "homepage":"http://wordpress.dev.com/acharya.php",
         "keywords": ["upload", "gd"],
         "license": "GPLv2",
